@@ -6,6 +6,7 @@ Ce mémoire est une tentative d'automatisation de cette classification qui est u
 Le présent cas consiste en une preuve de concept, en effet l'expérience a été réalisée et démontrée comme faisable sur 6 des 752 classes de l'UCS.
 
 Je doute que mon lectorat soit conséquent, n'hésitez pas à me contacter si vous souhaitez des renseignements.
+lppoulalionpro@gmail.com
 
 Le fichier MFE_Poulalion_VF.pdf est une synthèse de ce travail.
 
@@ -24,5 +25,6 @@ This thesis represents an attempt to automate this classification process, which
 The present work should be considered a proof of concept, as the experiment was carried out and demonstrated to be feasible on 6 of the 752 UCS classes.
 
 I do not expect a large readership; please feel free to contact me if you would like further information.
+lppoulalionpro@gmail.com
 
 The file MFE_Poulalion_VF.pdf provides a summary of this work.
